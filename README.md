@@ -1,7 +1,7 @@
 # Biografia
 
 ### Olá 👋
-Me chamo Gabriel, sou iniciante na área de desenvolvimento, embora já desenvolva projetos pessoais. Busco me capacitar e adquirir novos conhecimentos, para que em breve possa me inserir no mercado e dar inicio a minha carreira profissional de desenvolvedor Front-end.
+Me chamo Gabriel, sou iniciante na área de desenvolvimento, embora já desenvolva projetos pessoais. Busco me capacitar e adquirir novos conhecimentos, para me inserir no mercado e dar inicio a minha carreira profissional de desenvolvedor Front-end.
 
 ## Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielmulleer&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
