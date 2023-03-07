@@ -16,6 +16,7 @@ Me chamo Gabriel, sou iniciante na área de desenvolvimento, embora já desenvol
 
 # Projetos
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielmulleer&repo=gabrielmulleer.github.io&theme=dark)](https://github.com/gabrielmulleer/gabrielmulleer.github.io)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielmulleer&repo=social-networks-gm&theme=dark)](https://social-networks-gm.netlify.app/)
 
 # Contatos
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/gabrielmulleer/)
