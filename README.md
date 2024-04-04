@@ -1,7 +1,7 @@
 # Biografia
 
 ### Olá 👋
-Me chamo Gabriel, atualmente atuando como desenvolvedor front-end júnior. Sou uma pessoa dedicada, proativa e apaixonada pela área de tecnologia. 
+Me chamo Gabriel, atualmente atuando como desenvolvedor front-end. Sou uma pessoa dedicada, proativa e apaixonada pela área de tecnologia. 
 
 Minha busca constante por aprendizado e aprimoramento me torna um pessoa curiosa e sempre em busca de soluções inovadoras. Além disso, minhas habilidades de trabalho em equipe e atenção aos detalhes me capacitam a contribuir efetivamente em projetos colaborativos, buscando resultados de alta qualidade.
 
